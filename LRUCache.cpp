@@ -1,3 +1,5 @@
+// From the discussion board help - TheCodeHere
+
 LRUCache::LRUCache(int c)
 	{
 		cp = c; // Capacity
